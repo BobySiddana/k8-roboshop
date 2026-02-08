@@ -74,7 +74,7 @@ metadata:
 spec:
   selector:
     component: payment
-    project: roboshop
+    project: robosho
     tier: app
   ports:
   - protocol: TCP
